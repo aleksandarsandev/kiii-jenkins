@@ -1,2 +1,2 @@
 FROM nginx
-COPY index.html /usr/share/nginx/html/index.html
+COPY index.html C:\Users\Aleksandar\Downloads\nginx-1.24.0\nginx-1.24.0\html\index.html
